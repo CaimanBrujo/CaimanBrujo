@@ -11,7 +11,7 @@ My goal is to bring designs to life with **precision**, **structure**, and a str
 
 ---
 
-## 🎵 Outside the code...
+##  Outside the code...
 
 I'm also a **Techno producer and DJ**.  
 I bring the same attention to **rhythm, balance, and flow** from my musical work into the way I approach development.
