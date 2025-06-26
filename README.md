@@ -9,9 +9,10 @@ _Full-Stack in progress_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaimanBrujo&layout=compact&theme=dark)
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Tailwind CSS
-- **Tools:** Git, Vite, Webpack, Figma
+Languages: HTML, CSS, JavaScript, TypeScript
+Frameworks/Libraries: React, Tailwind CSS
+Tools: Git, Vite, Webpack, Figma
+Testing & Code Quality: Jest, ESLint, Prettier
 
 ---
 
