@@ -1,6 +1,6 @@
 # Hi, I'm Nico - a.k.a **Caiman**
 
-**Junior Full-Stack Developer**  
+**Junior Full-Stack Developer**
 
 ---
 
@@ -9,23 +9,28 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaimanBrujo&layout=compact&theme=dark)
 
 - **Lenguajes**
+
   - TypeScript, JavaScript, HTML, CSS
 
 - **Front-End**
+
   - Frameworks/Libraries: Next.js, React, Tailwind CSS, Sass, Bootstrap
   - Build Tools: Vite, Webpack
   - Design: Photoshop, Figma
 
 - **Back-End**
+
   - Frameworks/Libraries: Node.js, Express
   - Databases: PostgreSQL, Prisma ORM
   - APIs: RESTful APIs
   - BaaS: Supabase, Firebase
 
 - **Deploy Tools**
+
   - Vercel, Railway
 
 - **Version Control**
+
   - Git
 
 - **Testing & Code Quality**
@@ -58,5 +63,4 @@ You can find my sets here:
 
 - [YouTube](https://www.youtube.com/@CaimanBrujo)
 
-<img src="https://media.giphy.com/media/fsoCk5kgOcYMM/giphy.gif" width="400" />
-
+<img src="https://raw.githubusercontent.com/CaimanBrujo/CaimanBrujo/main/assets/ghost.gif" width="500" />
