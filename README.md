@@ -1,7 +1,6 @@
 # Hi, I'm Nico - a.k.a **Caiman**
 
-**Front-End Developer**  
-_Full-Stack in progress_
+**Junior Full-Stack Developer**  
 
 ---
 
@@ -9,20 +8,37 @@ _Full-Stack in progress_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaimanBrujo&layout=compact&theme=dark)
 
-- Languages: HTML, CSS, JavaScript, TypeScript
-- Frameworks/Libraries: React, Tailwind CSS
-- Build Tools: Vite, Webpack
-- Version Control & Design: Git, Figma
-- Testing & Code Quality: Jest, ESLint, Prettier
+- **Lenguajes**
+  - TypeScript, JavaScript, HTML, CSS
+
+- **Front-End**
+  - Frameworks/Libraries: Next.js, React, Tailwind CSS, Sass, Bootstrap
+  - Build Tools: Vite, Webpack
+  - Design: Photoshop, Figma
+
+- **Back-End**
+  - Frameworks/Libraries: Node.js, Express
+  - Databases: PostgreSQL, Prisma ORM
+  - APIs: RESTful APIs
+  - BaaS: Supabase, Firebase
+
+- **Deploy Tools**
+  - Vercel, Railway
+
+- **Version Control**
+  - Git
+
+- **Testing & Code Quality**
+  - Jest, ESLint, Prettier
 
 ---
 
 ## What I'm Doing Now
 
-- Sharpening my **React** and **TypeScript** skills
-- Looking for opportunities to grow as a **Junior Developer**
+- Sharpening my **Next.js** and **Back-End** skills
+- Looking for opportunities to grow as a **Full-Stack Developer**
 - Building my portfolio with clean, responsive projects
-- Finishing the **Full-Stack path**
+- Founding my start up of web solutions
 - Releasing **Techno mixes** on YouTube
 
 ---
@@ -40,7 +56,7 @@ _Full-Stack in progress_
 I'm also a **Techno producer and DJ**.  
 You can find my sets here:
 
-- [SoundCloud](https://soundcloud.com/caimanbrujo)
 - [YouTube](https://www.youtube.com/@CaimanBrujo)
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3czNXVnOTM1eHhwNWFubnA1NXh4anZubXJieWhyanhnd2ViZmJhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/fsoCk5kgOcYMM/giphy.gif" width="400" />
+
