@@ -9,28 +9,23 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaimanBrujo&layout=compact&theme=dark)
 
 - **Lenguajes**
-
   - TypeScript, JavaScript, HTML, CSS
 
 - **Front-End**
-
   - Frameworks/Libraries: Next.js, React, Tailwind CSS, Sass, Bootstrap
   - Build Tools: Vite, Webpack
   - Design: Photoshop, Figma
 
 - **Back-End**
-
   - Frameworks/Libraries: Node.js, Express
   - Databases: PostgreSQL, Prisma ORM
   - APIs: RESTful APIs
   - BaaS: Supabase, Firebase
 
 - **Deploy Tools**
-
   - Vercel, Railway
 
 - **Version Control**
-
   - Git
 
 - **Testing & Code Quality**
